@@ -3,6 +3,8 @@ class Person
     @name = name
   end
   
-  def
+  def initialize
+    @name
+  end
   
 end
